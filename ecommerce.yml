@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: jimkwon
+  secret: king jimin
 
 gateway:
   ip: 10.1.21.53
