@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: token_dev
+  secret: token_dev_change
 
 gateway:
   ip: 10.1.21.53
