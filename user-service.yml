@@ -2,9 +2,6 @@ token:
   expiration_time: 864000000
   secret: token
 
-gateway:
-  ip: 10.1.21.53
-
 spring:
   application:
   datasource:
